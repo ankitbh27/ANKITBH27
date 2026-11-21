@@ -5,14 +5,14 @@ I'm a passionate developer focused on building clean web applications, exploring
 ---
 
 ### 🚀 About Me
-- 🎓 **Focus:** Computer Science & Engineering student.
+- 🎓 **Focus:** Computer Architecture and Electronics and Software development.
 - 💻 **Operating System:** Proud Fedora Linux user.
 - 🛠️ **Current Interests:** Python backend development, desktop customization, and diving into open-source codebases.
 
 ---
 
 ### 🛠️ Tech & Tools
-- **Languages:** Python, HTML/CSS, JavaScript (learning Kotlin & PHP!)
+- **Languages:** Python, HTML/CSS, JavaScript (learning Kotlin & PHP!), Java, Data structures and Algorithm 
 - **Tools & Environments:** Git & GitHub, Photopea, Rainmeter, Linux Terminal
 
 ---
